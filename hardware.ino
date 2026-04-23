@@ -7,8 +7,8 @@
 // ===========================
 // WIFI CONFIG
 // ===========================
-const char* ssid     = "OnePlus 13R D044";
-const char* password = "12345678";
+const char* ssid     = "your wifi/hotspot username";
+const char* password = "password";
 
 // ===========================
 // CAMERA PINS (AI THINKER)
