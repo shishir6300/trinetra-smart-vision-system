@@ -1,0 +1,9 @@
+Flask
+flask-cors
+requests
+speechrecognition
+pyttsx3
+Pillow
+vertexai
+deep-translator
+pyaudio
